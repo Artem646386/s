@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+
+header p{
+    font-size:36px;
+    color:#000000;
+    background-color:#0776A0;
+    padding:20px:}
+
+    header img{
+    height: 30px;
+} 
+
+font{
+    background-color:#ff8600;
+    border-radius:15px;
+    padding:6px;
+    margin-left:10px;
+}
+main{text-align: center;}
